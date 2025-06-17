@@ -103,7 +103,7 @@ function ModalSearch({
                 <li>
                   <Link
                     className="flex items-center p-2 text-gray-800 dark:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-700/20 rounded-lg"
-                    to="#0"
+                    to="#"
                     onClick={() => setModalOpen(!modalOpen)}
                   >
                     <svg
@@ -120,7 +120,7 @@ function ModalSearch({
                 <li>
                   <Link
                     className="flex items-center p-2 text-gray-800 dark:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-700/20 rounded-lg"
-                    to="#0"
+                    to="#"
                     onClick={() => setModalOpen(!modalOpen)}
                   >
                     <svg
@@ -137,7 +137,7 @@ function ModalSearch({
                 <li>
                   <Link
                     className="flex items-center p-2 text-gray-800 dark:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-700/20 rounded-lg"
-                    to="#0"
+                    to="#"
                     onClick={() => setModalOpen(!modalOpen)}
                   >
                     <svg
@@ -154,7 +154,7 @@ function ModalSearch({
                 <li>
                   <Link
                     className="flex items-center p-2 text-gray-800 dark:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-700/20 rounded-lg"
-                    to="#0"
+                    to="#"
                     onClick={() => setModalOpen(!modalOpen)}
                   >
                     <svg
@@ -171,7 +171,7 @@ function ModalSearch({
                 <li>
                   <Link
                     className="flex items-center p-2 text-gray-800 dark:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-700/20 rounded-lg"
-                    to="#0"
+                    to="#"
                     onClick={() => setModalOpen(!modalOpen)}
                   >
                     <svg
@@ -188,7 +188,7 @@ function ModalSearch({
                 <li>
                   <Link
                     className="flex items-center p-2 text-gray-800 dark:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-700/20 rounded-lg"
-                    to="#0"
+                    to="#"
                     onClick={() => setModalOpen(!modalOpen)}
                   >
                     <svg
@@ -211,7 +211,7 @@ function ModalSearch({
                 <li>
                   <Link
                     className="flex items-center p-2 text-gray-800 dark:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-700/20 rounded-lg"
-                    to="#0"
+                    to="#"
                     onClick={() => setModalOpen(!modalOpen)}
                   >
                     <svg
@@ -231,7 +231,7 @@ function ModalSearch({
                 <li>
                   <Link
                     className="flex items-center p-2 text-gray-800 dark:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-700/20 rounded-lg"
-                    to="#0"
+                    to="#"
                     onClick={() => setModalOpen(!modalOpen)}
                   >
                     <svg
