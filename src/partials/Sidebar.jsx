@@ -80,7 +80,7 @@ function Sidebar({
           </button>
           {/* Logo */}
           <NavLink end to="/" className="block">
-            <img src="public/saturn white.png" alt="Logo" className="h-10 w-auto" />
+            <img src="/public/saturn white.png" alt="Logo" className="h-10 w-auto" />
           </NavLink>
         </div>
 
